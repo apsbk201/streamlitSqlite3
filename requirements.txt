@@ -1,0 +1,4 @@
+openpyxl==3.0.10
+pandas==1.5.2
+streamlit==1.16.0
+streamlit_option_menu==0.3.2
